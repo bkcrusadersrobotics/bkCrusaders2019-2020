@@ -57,7 +57,7 @@ import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
  * Remove or comment out the @Disabled line to add this opmode to the Driver Station OpMode list
  */
 
-// this is a test comment haha
+// this is a test comment
 
 @Autonomous(name="Pushbot: Auto Drive By Time", group="Pushbot")
 @Disabled
